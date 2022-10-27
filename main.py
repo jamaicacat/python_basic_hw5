@@ -37,8 +37,6 @@ print('res_1', res_1)
 
 res_2 = ()
 
-tuple_d_2 = tuple_a + tuple_b + tuple_c
-
 for item in tuple_d:
 
     if len(res_2) and item <= res_2[-1][0]:
